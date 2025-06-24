@@ -1,7 +1,7 @@
 set(SCYLLA_HEADER_FILES
     "AboutGui.h"
     "AppInfo.h"
-    "DeviceNameResolver.h "
+    "DeviceNameResolver.h"
     "DumpMemoryGui.h"
     "ImportRebuilder.h"
     "OptionsGui.h"
